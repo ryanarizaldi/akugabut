@@ -15,7 +15,7 @@
 
   findLongest("I will and ever will be gratefully and perpetually loving you Tesh!😘") ➞ "perpetually"
   findLongest("A thing of beauty is a joy forever.") ➞ "forever" 
-  findLongest("Forgetfulness is by all means powerless!") ➞ "forgetfulness"
+  findLongest("Forgetfulness is by all means powerless!") ➞ "forgetfulness"   dasdasd
 */
 
 const findLongest = (arr) => {
